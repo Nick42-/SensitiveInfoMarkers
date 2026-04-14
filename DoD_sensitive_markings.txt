@@ -1,0 +1,28 @@
+Controlled Unclassified Information
+CUI//SP-
+Controlled Technical Information
+NOFORN
+FED ONLY
+FECON
+NOCON
+DL ONLY
+RELIDO
+REL TO USA
+DISPLAY ONLY USA
+CONTROLLED BY:
+CUI CATEGORY:
+DISTRIBUTION STATEMENT: B
+DISTRIBUTION STATEMENT: C
+DISTRIBUTION STATEMENT: D
+DISTRIBUTION STATEMENT: E
+DISTRIBUTION STATEMENT: F
+Other requests for this document must be referred to
+Distribution Statement B. Distribution authorized to U.S. Government agencies
+Distribution Statement C. Distribution authorized to U.S. Government agencies and their contractors
+Distribution Statement D. Distribution authorized to the Department of Defense and U.S. DoD contractors only
+Distribution Statement E. Distribution authorized to DoD Components only
+Distribution Statement F. Further distribution only as directed by
+WARNING: This document contains technical data whose export is restricted by the Arms Export Control Act 
+EXPORT CONTROLLED – This information may be subject to the Export Administration Regulations (EAR) pursuant to
+EXPORT CONTROLLED - This information may be subject to the International Traffic in Arms Regulations (ITAR) 
+Transfer of this data by any means to a Non-U.S. Person, whether in the United States or abroad without the proper U.S. government authorization is strictly prohibited.
